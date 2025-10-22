@@ -9,7 +9,7 @@ package modelo;
  * @author Usuario
  */
 public class Prestamo {
-     //atributos
+     //Atributos
     private int idPrestamo;
     private float monto;
     private float tasaInteres;
