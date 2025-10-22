@@ -9,7 +9,7 @@ package modelo;
  * @author Usuario
  */
 public class CuentaAhorro {
-     //atributos
+     //Atributos
     private String titular;
     private String numeroCuenta;
     private float saldo;
